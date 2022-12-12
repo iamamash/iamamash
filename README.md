@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/34220e95746151.5e9ecde696cb0.gif)
 <h1 align="center">Hi 👋, I'm Amash Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamamash&label=Profile%20views&color=0e75b6&style=flat" alt="iamamash" /> </p>
 <p align="left"> <a href="https://twitter.com/amashansari10" target="blank"><img src="https://img.shields.io/twitter/follow/amashansari10?logo=twitter&style=for-the-badge" alt="amashansari10" /></a> </p>
