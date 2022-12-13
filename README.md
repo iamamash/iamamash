@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **DSA & development**
 
-- 🌱 I’m currently learning **C, C++, Python, DSA, Full Stack, DevOps**
+- 🌱 I’m currently learning **DSA, Full Stack, DevOps**
 
 - 👯 I’m looking to collaborate on **open source**
 
