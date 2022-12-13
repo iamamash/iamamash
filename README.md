@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amashansari10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amashansari10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amash ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amash ansari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amash-ansari-719667226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amash ansari" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/amash ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amash ansari" height="30" width="40" /></a>
 <a href="https://fb.com/amash ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amash ansari" height="30" width="40" /></a>
 <a href="https://instagram.com/iam._.amash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam._.amash" height="30" width="40" /></a>
