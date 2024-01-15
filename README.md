@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/082e4970f39bf3115a35b161f85d2b56a3146bc1b5c4f4822cdedfaf80fbaa8f/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67)
 <h1 align="center">Hi 👋, I'm Amash Ansari</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A final year Computer Science student with a strong interest in DevOps 🥑 and Cloud-native ☁️ technologies. Actively seeking new opportunities in tech, I'm passionate about contributing to open-source and sharing knowledge through Learn in Public 📢</h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/iamamash/iamamash/assets/42666741/87dfb759-060c-4bd3-8242-a1daca6dc256">
 
@@ -19,6 +19,7 @@
 <a href="https://twitter.com/amashansari10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amashansari10" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amash-ansari-719667226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amash ansari" height="30" width="40" /></a>
 <a href="https://instagram.com/iam._.amash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam._.amash" height="30" width="40" /></a>
+<a href="https://hashnode.com/@AMASH" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress.svg" alt="iamamash" height="30" width="30" /></a>
 <a href="https://www.leetcode.com/iamamash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamamash" height="30" width="40" /></a>
 </p>
 
