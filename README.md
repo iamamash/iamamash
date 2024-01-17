@@ -40,7 +40,7 @@
   <p> <a href="https://noobdevblog.hashnode.dev/an-introduction-to-aws-lambda-for-beginners" target="_blank" rel="noreferrer"> An introduction to AWS Lambda for beginners </a> </p>
   <p> In the realm of cloud computing, AWS Lambda emerges as a revolutionary service offered by Amazon Web Services (AWS). But what exactly is Lambda? In simple terms, it's a serverless computing platform that allows you to run code without managing servers. Think of Lambda as your assistant, ready to execute your code whenever needed, eliminating the complexities of server setup and maintenance... </p>
 </div>
-
+<br>
 <div>
   <p> <a href="https://noobdevblog.hashnode.dev/getting-started-with-aws-cloudformation" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704202380304/e6bbbd6f-5375-48b9-8c5e-3141d2d251eb.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="iamamash" width="300" /> </a> </p>
   <p> <a href="https://noobdevblog.hashnode.dev/getting-started-with-aws-cloudformation" target="_blank" rel="noreferrer"> Getting Started with AWS CloudFormation </a> </p>
