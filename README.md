@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/082e4970f39bf3115a35b161f85d2b56a3146bc1b5c4f4822cdedfaf80fbaa8f/68747470733a2f2f692e696d6775722e636f6d2f344153616679302e706e67)
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Amash Ansari</h1>
 <h3 align="center">A final year Computer Science student with a strong interest in DevOps 🥑 and Cloud-native ☁️ technologies. Actively seeking new opportunities in tech, I'm passionate about contributing to open-source and sharing knowledge through Learn in Public 📢</h3>
 <br>
