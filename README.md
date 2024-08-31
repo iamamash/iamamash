@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Amash Ansari</h1>
-<h3 align="center">A final year Computer Science student with a strong interest in DevOps 🥑 and Cloud-native ☁️ technologies. Actively seeking new opportunities in tech, I'm passionate about contributing to open-source and sharing knowledge through Learn in Public 📢</h3>
+<h3 align="center">A final year Computer Science student with a strong interest in DevOps 🥑 and Cloud-native ☁️ technologies. Actively seeking new opportunities in tech, I am passionate about contributing to open-source and sharing knowledge through Learn in Public 📢</h3>
 <br>
 <br>
 <img align="right" alt="Coding" width="400" src="https://github.com/iamamash/iamamash/assets/42666741/87dfb759-060c-4bd3-8242-a1daca6dc256">
