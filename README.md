@@ -62,3 +62,9 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamamash&" alt="iamamash" /></p>
+
+
+<div>
+
+   ![Snake animation](https://github.com/iamamash/iamamash/blob/output/github-contribution-grid-snake.svg)
+</div>
