@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Banner GitHub](https://media.licdn.com/dms/image/v2/D5616AQHw0WABqIVZkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352956768?e=1730937600&v=beta&t=eNRNrQfUNQR51TFxbcUizrYE38tzjbAJya-NUlgz8gc)
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiamamash%2Fiamamash&label=VISITORS&labelColor=%23000&countColor=%230A0209"/>
