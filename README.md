@@ -82,5 +82,5 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <div>
-   ![Snake animation](https://github.com/iamamash/iamamash/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/iamamash/iamamash/blob/output/github-snake-dark.svg)
 </div>
