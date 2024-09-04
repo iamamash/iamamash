@@ -70,6 +70,34 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> My socials
 
+<br>
+
+<div align="center">
+   <a href="https://noobdevblog.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-d5d5d5?style=for-the-badge&logo=hashnode&logoColor=0A0209" alt="profile of Hashnode with username Amash Ansari" /></a>
+  <br>
+  <a href="https://linkedin.com/in/amash-ansari"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Amash Ansari" /></a>
+ <a href="mailto:ansari2002ksp@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Amash i.e.   ansari2002ksp@gmail.com" /></a>
+  <br>
+  <a href="https://bento.me/amash-ansari"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=bento&logoColor=0A0209" alt="portfolio of Amash Ansari" ></a>
+  <a href="https://x.com/AmashAnsari10"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Amash_Ansari" ></a>
+  <a href="https://www.instagram.com/iamamash/"><img src="https://img.shields.io/badge/instagram-d5d5d5?style=for-the-badge&logo=instagram&logoColor=0A0209" ></a>
+  <br>
+  <a href="https://leetcode.com/u/iamamash/"><img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/></a>
+  <a href="https://www.geeksforgeeks.org/user/iamamash/"><img src="https://img.shields.io/badge/GeeksforGeeks-0A0209?style=for-the-badge&logo=geeksforgeeks&logoColor=d5d5d5"/></a>
+  <a href="https://wellfound.com/u/amash-ansari"><img src="https://img.shields.io/badge/wellfound-0A0209?style=for-the-badge&logo=Coursera&logoColor=d5d5d5" /></a>
+  <a href=""><img src="https://img.shields.io/badge/Codecademy-0A0209?style=for-the-badge&logo=codecademy&logoColor=d5d5d5" /></a> 
+  <br> 
+  <a href="https://dev.to/iamamash"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209"/></a>
+  <a href="https://linkedin.com/in/amash-ansari"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209"/></a>
+  <a href="mailto:amash.ansari.career@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://discordapp.com/users/987573067649785876"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="BØBMÆRLEY#6547" >
+  <a href=""><img src="https://img.shields.io/badge/Dribbble-d5d5d5?style=for-the-badge&logo=dribbble&logoColor=0A0209" /></a>
+  <a href="https://x.com/AmashAnsari10"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="Amash_Ansari" ></a>
+  
+</div>
+
+<br>
+
 # My GitHub Metrics
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamamash&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
