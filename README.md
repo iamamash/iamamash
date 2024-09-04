@@ -33,6 +33,15 @@
 <br>
 
 # My Latest Blogs🖇️
+
+<div>
+  <p> <a href="https://noobdevblog.hashnode.dev/devopsifying-a-go-web-application-an-end-to-end-guide" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1725216421308/2a5dba1a-734e-47c8-95c7-d92bcdd7709d.png?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="iamamash" width="300" /> </a> </p>
+  <p> <a href="https://noobdevblog.hashnode.dev/devopsifying-a-go-web-application-an-end-to-end-guide" target="_blank" rel="noreferrer"> DevOpsifying a Go Web Application: An End-to-End Guide </a> </p>
+  <p> In this blog, I will guide you through the process of DevOpsifying a Go-based web application. We will cover everything from containerizing the application with Docker to deploying it on a Kubernetes cluster (AWS EKS) using Helm, setting up continuous integration with GitHub Actions, and automating deployments with.... </p>
+</div>
+
+<br>
+
 <div>
   <p> <a href="https://noobdevblog.hashnode.dev/aws-tools-for-seamless-software-creation" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704276813486/cafd8f37-b81b-4b51-8047-09f5e5041b03.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="iamamash" width="300" /> </a> </p>
   <p> <a href="https://noobdevblog.hashnode.dev/aws-tools-for-seamless-software-creation" target="_blank" rel="noreferrer"> AWS Tools for Seamless Software Creation </a> </p>
@@ -43,12 +52,6 @@
   <p> <a href="https://noobdevblog.hashnode.dev/an-introduction-to-aws-lambda-for-beginners" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704207221105/7a3be15d-8c89-451c-b04f-a249a76ae932.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="iamamash" width="300" /> </a> </p>
   <p> <a href="https://noobdevblog.hashnode.dev/an-introduction-to-aws-lambda-for-beginners" target="_blank" rel="noreferrer"> An introduction to AWS Lambda for beginners </a> </p>
   <p> In the realm of cloud computing, AWS Lambda emerges as a revolutionary service offered by Amazon Web Services (AWS). But what exactly is Lambda? In simple terms, it's a serverless computing platform that allows you to run code without managing servers. Think of Lambda as your assistant, ready to execute your code whenever needed, eliminating the complexities of server setup and maintenance... </p>
-</div>
-<br>
-<div>
-  <p> <a href="https://noobdevblog.hashnode.dev/getting-started-with-aws-cloudformation" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704202380304/e6bbbd6f-5375-48b9-8c5e-3141d2d251eb.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="iamamash" width="300" /> </a> </p>
-  <p> <a href="https://noobdevblog.hashnode.dev/getting-started-with-aws-cloudformation" target="_blank" rel="noreferrer"> Getting Started with AWS CloudFormation </a> </p>
-  <p> In a world where setting up digital resources can feel like building a complex puzzle, AWS CloudFormation emerges as the ultimate solution, a tool that simplifies the creation and management of your online infrastructure. Let's break down this powerful tool in the simplest terms possible, envisioning it as your virtual construction wizard.... </p>
 </div>
 
 <br>
