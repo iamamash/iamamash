@@ -1,4 +1,5 @@
-![Banner GitHub](https://media.licdn.com/dms/image/v2/D5616AQHw0WABqIVZkA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352956768?e=1730937600&v=beta&t=eNRNrQfUNQR51TFxbcUizrYE38tzjbAJya-NUlgz8gc)
+![github-header-image (1)](https://github.com/user-attachments/assets/f9cbd7f7-8c21-43a8-9c31-1ec8bff1ae55)
+
 
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiamamash%2Fiamamash&label=VISITORS&labelColor=%23000&countColor=%230A0209"/>
