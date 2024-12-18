@@ -1,4 +1,5 @@
-![github-header-image (1)](https://github.com/user-attachments/assets/f9cbd7f7-8c21-43a8-9c31-1ec8bff1ae55)
+![Resized_workspace_image_1280x640](https://github.com/user-attachments/assets/a0823738-90d8-4d3e-96f6-092e904f5103)
+
 
 
 <div align="center">
