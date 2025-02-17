@@ -1,7 +1,5 @@
 ![Resized_workspace_image_1280x640](https://github.com/user-attachments/assets/a0823738-90d8-4d3e-96f6-092e904f5103)
 
-
-
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fiamamash%2Fiamamash&label=VISITORS&labelColor=%23000&countColor=%230A0209"/>
   <br><br>
@@ -42,6 +40,7 @@
   <p> In this blog, I will guide you through the process of DevOpsifying a Go-based web application. We will cover everything from containerizing the application with Docker to deploying it on a Kubernetes cluster (AWS EKS) using Helm, setting up continuous integration with GitHub Actions, and automating deployments with.... </p>
 </div>
 
+<br>
 <br>
 
 <div>
