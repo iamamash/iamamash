@@ -49,6 +49,7 @@
   <p> Crafting software resembles a complex expedition, yet Amazon Web Services (AWS) offers a suite of tools acting as a compass through this journey. Imagine a meticulously designed roadmap, a proficient team, and a pathway to effortlessly achieve your software ambitions, AWS embodies this very guidance... </p>
 </div>
 <br>
+<br>
 <div>
   <p> <a href="https://noobdevblog.hashnode.dev/an-introduction-to-aws-lambda-for-beginners" target="_blank" rel="noreferrer"> <img align="left" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1704207221105/7a3be15d-8c89-451c-b04f-a249a76ae932.jpeg?w=1600&h=840&fit=crop&crop=entropy&auto=compress,format&format=webp" alt="iamamash" width="300" /> </a> </p>
   <p> <a href="https://noobdevblog.hashnode.dev/an-introduction-to-aws-lambda-for-beginners" target="_blank" rel="noreferrer"> An introduction to AWS Lambda for beginners </a> </p>
